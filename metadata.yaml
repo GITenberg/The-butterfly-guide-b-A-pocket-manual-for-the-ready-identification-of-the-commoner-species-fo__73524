@@ -1,0 +1,30 @@
+_repo: The-butterfly-guide-b-A-pocket-manual-for-the-ready-identification-of-the-commoner-species-fo__73524
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holland, W. J. (William Jacob)
+    alias: Holland, William Jacob
+    birthdate: 1848
+    deathdate: 1932
+    gutenberg_agent_id: '40416'
+    url: http://www.gutenberg.org/2009/agents/40416
+description: ''
+gutenberg_issued: '2024-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73524'
+language: en
+pgterms:marc905: 20141121155444holland
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Lisa Corcoran, Stephen Hutcheson, Chris Curnow, A Marshall and the
+  Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bDoubleday, Page & Company, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The butterfly guide : $b A pocket manual for the ready identification of the
+  commoner species found in the United States and Canada'
+url: http://www.gutenberg.org/ebooks/73524
