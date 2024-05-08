@@ -1,5 +1,8 @@
 _repo: The-butterfly-guide-b-A-pocket-manual-for-the-ready-identification-of-the-commoner-species-fo__73524
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73524-h/images/cover.jpg
 creator:
   author:
     agent_name: Holland, W. J. (William Jacob)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '40416'
     url: http://www.gutenberg.org/2009/agents/40416
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73524#The-butterfly-guide-b-A-pocket-manual-for-the-ready-identification-of-the-commoner-species-fo_
 gutenberg_issued: '2024-05-03'
 gutenberg_type: Text
 identifiers:
